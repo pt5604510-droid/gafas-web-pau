@@ -1,6 +1,6 @@
 # Gafas Web Pau - Mirada Bonita
 
-Sitio web front-end de una tienda de gafas para mujeres, hombres, niñas y niños. Proyecto de la **EVIDENCIA 20: Desarrollo de Sitio Web Front-End**.
+Sitio web front-end de una tienda de gafas para mujeres, hombres, niñas y niños.
 
 ## Características
 - Diseño moderno y responsive (se adapta a celular y computador)
