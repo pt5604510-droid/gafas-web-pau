@@ -1,0 +1,2 @@
+Carpeta para las imagenes del proyecto (fotos de las gafas, logos, etc.).
+Si agregas imagenes aqui, en el HTML usalas asi: <img src="img/nombre.jpg" alt="descripcion">
